@@ -1,0 +1,41 @@
+#$ TITLE: OSD IDV
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: IDV
+#$ AUTHOR: IDV
+#$ PARSER: MARKED
+#$ DESCRIPTION: OSD cli 
+#$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/211
+#$ INCLUDE: presets/4.3/osd/defaults.txt
+
+set osd_warn_core_temp = OFF
+set osd_warn_batt_not_full = OFF
+set osd_warn_no_gps_rescue = OFF
+set osd_warn_gps_rescue_disabled = OFF
+set osd_warn_rssi = ON
+set osd_warn_link_quality = ON
+set osd_rssi_alarm = 30
+set osd_cap_alarm = 1300
+set osd_alt_alarm = 0
+set osd_tim1 = 2049
+set osd_rssi_pos = 2135
+set osd_link_quality_pos = 2167
+set osd_tim_1_pos = 448
+set osd_flymode_pos = 2145
+set osd_throttle_pos = 2177
+set osd_current_pos = 2528
+set osd_mah_drawn_pos = 2497
+set osd_craft_name_pos = 2081
+set osd_warnings_pos = 2473
+set osd_avg_cell_voltage_pos = 2550
+set osd_disarmed_pos = 2442
+set osd_flip_arrow_pos = 2413
+set osd_log_status_pos = 2241
+set osd_stat_tim_1 = ON
+set osd_stat_max_spd = OFF
+set osd_stat_endbatt = ON
+set osd_stat_battery = ON
+set osd_stat_min_link_quality = ON
+set osd_stat_total_time = ON
+set name = IDV

@@ -799,6 +799,21 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/osd/IDV_pal.txt",
+      "hash": "52664045fb9f7366e660146497570add5eb18bb158ad1b97dc09dec8d5877a82",
+      "title": "OSD IDV",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "IDV"
+      ],
+      "author": "IDV",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/osd/UAV_tech_Analog.txt",
       "hash": "b304bd4f3d0e6ab42840badced7e07847ca654c5fd048dba8c53b96128788763",
       "title": "UAV Tech - Analog",
