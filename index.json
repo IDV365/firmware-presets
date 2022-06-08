@@ -799,6 +799,23 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/osd/IDV_OSD.txt",
+      "hash": "36eb8ae097d0362030b297477c971280aad5562ac512a3f7ffa91949ed56db82",
+      "title": "Default 4.3 OSD settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "OSD"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/osd/IDV_pal.txt",
       "hash": "52664045fb9f7366e660146497570add5eb18bb158ad1b97dc09dec8d5877a82",
       "title": "OSD IDV",
@@ -1223,16 +1240,18 @@
       "priority": 10000
     },
     {
-      "fullPath": "presets/4.3/rates/IDV.txt",
-      "hash": "2efdb122e28adc00e371f410993f375a9fd3eec43a31b11b7fc8621ef6d62df9",
-      "title": "IDV main rates",
+      "fullPath": "presets/4.3/rates/IDV_V1.1.txt",
+      "hash": "7286bceac2a6e9b062d3ab1afd710a269ae435dd40d1bb3ed63ae886bbc6cbda",
+      "title": "IDV Rates V1.1",
       "firmware_version": [
         "4.3"
       ],
       "category": "RATES",
-      "status": "COMMUNITY",
+      "status": "EXPERIMENTAL",
       "keywords": [
-        "IDV"
+        "IDV",
+        "rates",
+        "actual"
       ],
       "author": "IDV",
       "priority": 10000
