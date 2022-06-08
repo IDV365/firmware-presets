@@ -14,23 +14,23 @@
 rateprofile 0
 #$ OPTION END
 
-#$ OPTION BEGIN (UNCHECKED): Rate profile 1
+#$ OPTION BEGIN (UNCHECKED): Rate profile 2
 rateprofile 1
 #$ OPTION END
 
-#$ OPTION BEGIN (UNCHECKED): Rate profile 1
+#$ OPTION BEGIN (UNCHECKED): Rate profile 3
 rateprofile 2
 #$ OPTION END
 
-#$ OPTION BEGIN (UNCHECKED): Rate profile 1
+#$ OPTION BEGIN (UNCHECKED): Rate profile 4
 rateprofile 3
 #$ OPTION END
 
-#$ OPTION BEGIN (UNCHECKED): Rate profile 1
+#$ OPTION BEGIN (UNCHECKED): Rate profile 5
 rateprofile 4
 #$ OPTION END
 
-#$ OPTION BEGIN (UNCHECKED): Rate profile 1
+#$ OPTION BEGIN (UNCHECKED): Rate profile 6
 rateprofile 5
 #$ OPTION END
 
